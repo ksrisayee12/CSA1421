@@ -11,4 +11,5 @@ int main()
     printf("enter the input:");
     yylex();
 return 0;
+
 }
